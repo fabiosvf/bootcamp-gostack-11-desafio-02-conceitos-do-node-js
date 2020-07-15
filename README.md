@@ -1,5 +1,5 @@
 ####  Bootcamp - GoStack 11
-# 🚀 Desafio 02 - Back-end com Node.js
+# 🚀 Desafio 02 - Conceitos do Node.js
 
 ## Sobre
 - Criar uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso, permitir que os repositórios possam receber "likes"
