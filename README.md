@@ -3,6 +3,7 @@
 
 ## Sobre
 - Criar uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso, permitir que os repositórios possam receber "likes"
+- [Instruções para o Desafio](docs/Desafio%2002%20-%20Instru%C3%A7%C3%B5es.pdf)
 
 ---
 
